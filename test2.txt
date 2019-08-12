@@ -1,1 +1,53 @@
-hello
+C:\Users\v-nanvat>cd\
+
+C:\>cd apimlab
+
+C:\apimlab>start .
+
+C:\apimlab>git init
+Initialized empty Git repository in C:/apimlab/.git/
+
+C:\apimlab>git remote add origin https://github.com/nancyvatsa/apim.git
+
+C:\apimlab>git pull origin master
+C:\apimlab>notepad test.txt
+
+C:\apimlab>code .
+
+C:\apimlab>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\apimlab>git add test.txt
+
+C:\apimlab>git push origin master
+C:\apimlab>git add text2.txt
+C:\apimlab>git push origin master
+
+C:\apimlab>cd
+C:\apimlab
+
+C:\apimlab>cd/
+
+C:\>mkdir Productstore
+
+C:\>cd Productstore
+
+C:\Productstore>git clone https://github.com/prchanda/ProductStore
+
+
+C:\Productstore>start .
+
+C:\Productstore>cd/
+
+C:\>mkdir apimprod
+
+C:\>cd apimprod
+
+
+
+C:\apimprod>git clone https://github.com/prchanda/apimlab
+
+C:\apimprod>
